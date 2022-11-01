@@ -99,3 +99,13 @@ li {
 .a:hover {
     background-color: white;
 }
+
+.fim {
+    height: 50px;
+    background-color: white;
+}
+
+p{
+    text-align: center;
+    margin: 25px;
+}
